@@ -2,8 +2,8 @@
 - 👀 I’m interested in Project Management  
 - 🌱 I’m currently learning Leap 
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me - Ping on Team
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
